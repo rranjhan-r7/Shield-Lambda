@@ -1,0 +1,16 @@
+.terraform
+.terraform.lock.hcl
+*.tfplan
+currentTfPlan
+*.tfstate
+*tfstate*
+*.tfstate.d
+*.tfstate*backup
+.tfenv
+*.iml
+.DS_Store
+__pycache__/
+prod/cloud/config-rules/*/*.zip
+*.pyc
+lambda.zip
+.idea/
