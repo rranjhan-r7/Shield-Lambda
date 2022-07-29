@@ -17,7 +17,7 @@ def lambda_handler(event, context):
     #in_scope_accounts = json.loads(os.environ['in_scope_account_list'])
 
     #for dest_account in in_scope_accounts["account_list"]:
-        associate_waf_shield_for_account("395837851499")
+        associate_waf_shield_for_account("613327136112")
 
 
 def associate_waf_shield_for_account(dest_account):
